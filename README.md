@@ -1,94 +1,152 @@
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=160&section=header&text=Bern%20Lloyd%20S.%20Emperado&fontColor=7aa2f7&fontSize=38&desc=Portfolio%20%2F%202026&descColor=bb9af7&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=200&section=header&text=Bern%20Lloyd%20Emperado&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Portfolio%20%26%20Business%20Websites&descColor=1a1b26&descSize=18&descAlignY=60" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Beginner+Web+Developer;Aspiring+Full-Stack+Web+Developer;AI-assisted+development%2C+not+vibe+coding" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7DCFFF&center=true&vCenter=true&width=650&lines=I+build+clean%2C+fast%2C+mobile-friendly+websites;Portfolio+sites+%7C+Business+pages+%7C+Web+apps;You+get+updates+at+every+step" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-9ece6a?style=for-the-badge&labelColor=1a1b26" />
-  <img src="https://img.shields.io/badge/BASED%20IN-Zamboanga%20Sibugay%2C%20PH-7aa2f7?style=for-the-badge&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/●%20OPEN%20TO%20WORK-Oct–Nov%202026-9ece6a?style=for-the-badge&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/📍%20Zamboanga%20Sibugay-Philippines-7aa2f7?style=for-the-badge&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/🗣%20English%20%7C%20Filipino-bb9af7?style=for-the-badge&labelColor=1a1b26" />
+</p>
+
+<p align="center">
+  <a href="mailto:codenamebern@gmail.com"><img src="https://img.shields.io/badge/✉%20HIRE%20ME-Get%20a%20free%20quote-f7768e?style=for-the-badge&labelColor=1a1b26" /></a>
+  <a href="https://YOUR-PORTFOLIO-LINK-HERE"><img src="https://img.shields.io/badge/🌐%20VIEW-Live%20Portfolio-7dcfff?style=for-the-badge&labelColor=1a1b26" /></a>
 </p>
 
 ---
 
-## 👋 Hello!
+## 👋 Hi, I'm Bern
 
-I'm **Bern Lloyd S. Emperado**, a first-year **BS Information Technology** student and beginner web developer aiming to become a **full-stack web developer**.
+I'm a **BS Information Technology student and web developer** who builds portfolio websites and static and dynamic websites for people who want a clean online presence.
 
-I build portfolio websites and other basic static and dynamic websites. I use AI as a tool (*AI-assisted development*, ~~vibe coding~~) while I keep learning the fundamentals of programming and web development. I do this to help my parents with my allowance and tuition.
-
-`Beginner Web Developer` ▪ `Problem Solver` ▪ `Uses AI as a tool` ▪ `Playing chess` ▪ `Rubik's Cube` ▪ `Basic Backend Development`
+I use AI as a tool to work faster (**AI-assisted development, not ~~vibe coding~~**), and I understand and test every line I ship. I take on client work to support my family and my tuition, so I treat every project like it matters.
 
 ---
 
-## 💼 01 / Selected Work
+## 🚀 What I can build for you
 
-| Project | Level | Date | About |
-|---|---|---|---|
-| 🧮 **Personal Calculator** | Simple | 5/20/2025 | My first ever project. I struggled to center it, but now I finally know how to center a `div`. |
-| ⏱️ **Personal Stopwatch** | Intermediate | 6/13/2025 | My second project. A stopwatch that keeps me motivated every day. |
-| 🌐 **Client Portfolio Website** | Advanced | 10/19/2026 | A portfolio website I built for my first client. |
-| 📖 **Mini Bible App** | Advanced | 10/24/2026 | Built with the help of AI, good prompting and my web development skills, for anyone seeking guidance. |
-
-🔗 **Live portfolio:** [codenamebern.dev](https://YOUR-PORTFOLIO-LINK-HERE)
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>🧑‍💼</h3>
+      <b>Portfolio Websites</b><br/>
+      <sub>Show your work and make a strong first impression</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🏪</h3>
+      <b>Business / Landing Pages</b><br/>
+      <sub>Simple, fast pages that explain what you offer</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>⚙️</h3>
+      <b>Dynamic Web Apps</b><br/>
+      <sub>Interactive tools with a Node.js backend and database</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>📱</h3>
+      <b>Mobile-Friendly Design</b><br/>
+      <sub>Looks good on phones, tablets and desktops</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🙋 02 / About
+## 🤝 How I work with clients
 
-> When I work with a client, I always keep them updated on their website.
+| Step | What happens |
+|:---:|---|
+| **1. Chat** | You tell me what you need and who the site is for. |
+| **2. Plan** | I confirm the pages, features and timeline before I start. |
+| **3. Build** | I build it and **send you updates along the way**. You're never left guessing. |
+| **4. Revise** | You review, I adjust until you're happy. |
+| **5. Launch** | I help get your site live and answer questions after delivery. |
 
-It started in Grade 12, when I began making basic websites on my phone with **Spck Editor**, a portable IDE for phones.
-
-| | |
-|---|---|
-| **Focus** | Full-stack Web Developer |
-| **Based in** | Zamboanga Sibugay, Philippines |
-| **Languages** | English and Filipino |
-| **Available** | October–November 2026 |
+> 💬 *"When I work with a client, I always keep them updated on their website."*
 
 ---
 
-## 🛠️ 03 / Tools
+## 💼 Featured work
 
-| | |
-|---|---|
-| **Frontend** | HTML / CSS / JavaScript / EJS |
-| **Backend** | Node.js / Express.js |
-| **Database** | MongoDB |
-| **Workflow** | VS Code / Git / GitHub / Claude |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Client Portfolio Website</h3>
+      <code>Advanced</code> • <code>10/2026</code><br/><br/>
+      A complete portfolio website built for my first client.<br/><br/>
+      <b>Stack:</b> HTML • CSS • JavaScript
+    </td>
+    <td width="50%" valign="top">
+      <h3>📖 Mini Bible App</h3>
+      <code>Advanced</code> • <code>10/2026</code><br/><br/>
+      A mini Bible app for anyone seeking guidance, built with AI-assisted development and my own web skills.<br/><br/>
+      <b>Stack:</b> HTML • CSS • JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⏱️ Personal Stopwatch</h3>
+      <code>Intermediate</code> • <code>06/2025</code><br/><br/>
+      A working stopwatch app with custom styling and JavaScript logic.<br/><br/>
+      <b>Stack:</b> HTML • CSS • JavaScript
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧮 Personal Calculator</h3>
+      <code>Simple</code> • <code>05/2025</code><br/><br/>
+      My first ever project, where I learned layout, styling and the basics of JavaScript.<br/><br/>
+      <b>Stack:</b> HTML • CSS • JavaScript
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/codenamebern-design?tab=repositories"><b>→ See all my projects on GitHub</b></a>
+</p>
+
+---
+
+## 🛠️ Tools I use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,vscode&theme=dark" />
 </p>
 
+| | |
+|---|---|
+| **Frontend** | HTML • CSS • JavaScript • EJS |
+| **Backend** | Node.js • Express.js |
+| **Database** | MongoDB |
+| **Workflow** | VS Code • Git • GitHub • Claude |
+
 ---
 
-## 📊 GitHub Stats
+## 📈 My GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=codenamebern-design&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenamebern-design&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=codenamebern-design&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
-## 📫 04 / Contact
+## 📫 Let's build your website
+
+<p align="center">
+  <b>I'm available October – November 2026.</b><br/>
+  Tell me about your project and I'll reply with a plan and a quote.
+</p>
 
 <p align="center">
   <a href="mailto:codenamebern@gmail.com"><img src="https://img.shields.io/badge/Email-codenamebern%40gmail.com-f7768e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" /></a>
+  <a href="https://www.facebook.com/bern.lloyd.emperado.2024"><img src="https://img.shields.io/badge/Facebook-Message%20me-bb9af7?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1b26" /></a>
   <a href="https://github.com/codenamebern-design"><img src="https://img.shields.io/badge/GitHub-codenamebern--design-7aa2f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" /></a>
-  <a href="https://www.facebook.com/bern.lloyd.emperado.2024"><img src="https://img.shields.io/badge/Facebook-Bern%20Lloyd-bb9af7?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1b26" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b26&height=120&section=footer" />
 </p>
-
-<p align="center"><sub>© 2026 Bern Lloyd S. Emperado</sub></p>
