@@ -1,5 +1,8 @@
 <!-- HEADER -->
 <p align="center">
+  <img src="header.svg" width="100%" alt="Bern Lloyd Emperado, Web Developer" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=7DCFFF&center=true&vCenter=true&width=650&lines=I+build+clean%2C+fast%2C+mobile-friendly+websites;Portfolio+sites+%7C+Business+pages+%7C+Web+apps;You+get+updates+at+every+step" />
 </p>
 
@@ -133,6 +136,12 @@ I use AI as a tool to work faster (**AI-assisted development, not ~~vibe coding~
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=3" width="100%" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codenamebern-design/codenamebern-design/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/codenamebern-design/codenamebern-design/output/github-snake.svg" />
+  </picture>
+</p>
 
 ## 📫 Let's build your website
 
