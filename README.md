@@ -1,9 +1,5 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=200&section=header&text=Bern%20Lloyd%20Emperado&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Portfolio%20%26%20Business%20Websites&descColor=1a1b26&descSize=18&descAlignY=60&animation=fadeIn" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=7DCFFF&center=true&vCenter=true&width=650&lines=I+build+clean%2C+fast%2C+mobile-friendly+websites;Portfolio+sites+%7C+Business+pages+%7C+Web+apps;You+get+updates+at+every+step" />
 </p>
 
