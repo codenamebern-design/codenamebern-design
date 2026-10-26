@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#7aa2f7"/>
+      <stop offset="1" stop-color="#bb9af7"/>
+    </linearGradient>
+    <clipPath id="c">
+      <rect x="60" y="0" height="160" width="0">
+        <animate attributeName="width" from="0" to="680" dur="3s" begin="1s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <rect width="800" height="160" rx="12" fill="#1a1b26"/>
+  <text x="400" y="75" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" fill="url(#g)" opacity="0">Bern Lloyd Emperado
+    <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/>
+  </text>
+  <g clip-path="url(#c)">
+    <text x="400" y="120" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="20" fill="#7dcfff">Clean, fast, mobile-friendly websites for your business</text>
+  </g>
+</svg>
