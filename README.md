@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="mailto:codenamebern@gmail.com"><img src="https://img.shields.io/badge/✉%20HIRE%20ME-Get%20a%20free%20quote-f7768e?style=for-the-badge&labelColor=1a1b26" /></a>
-  <a href="https://YOUR-PORTFOLIO-LINK-HERE"><img src="https://img.shields.io/badge/🌐%20VIEW-Live%20Portfolio-7dcfff?style=for-the-badge&labelColor=1a1b26" /></a>
+  <a href="https://codenameberndev.vercel.app"><img src="https://img.shields.io/badge/🌐%20VIEW-Live%20Portfolio-7dcfff?style=for-the-badge&labelColor=1a1b26" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=3" width="100%" />
