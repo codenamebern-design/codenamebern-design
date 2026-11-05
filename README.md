@@ -128,9 +128,7 @@ I use AI as a tool to work faster (**AI-assisted development, not ~~vibe coding~
 
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codenamebern-design&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" />
-</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=3" width="100%" />
 <p align="center">
