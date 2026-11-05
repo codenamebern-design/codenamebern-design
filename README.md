@@ -126,10 +126,7 @@ I use AI as a tool to work faster (**AI-assisted development, not ~~vibe coding~
 
 ## 📈 My GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codenamebern-design&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenamebern-design&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codenamebern-design&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" />
