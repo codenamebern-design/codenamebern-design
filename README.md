@@ -59,7 +59,7 @@ I use AI as a tool to work faster (**AI-assisted development, not ~~vibe coding~
 <h3><img src="assets/h-work.svg" width="343" alt="Featured work" /></h3>
 
 <p align="center">
-  <a href = "https://princes-jean-dela-pena-portfolio.netlify.app/a"><img src="assets/work-portfolio.svg" width="400" alt="Client Portfolio Website (Advanced, 10/2026): a complete portfolio website built for my first client. HTML, CSS, JavaScript." /></a>
+  <a href = "https://princes-jean-dela-pena-portfolio.netlify.app"><img src="assets/work-portfolio.svg" width="400" alt="Client Portfolio Website (Advanced, 10/2026): a complete portfolio website built for my first client. HTML, CSS, JavaScript." /></a>
   <a href = "https://paglaom.netlify.app/"><img src="assets/work-bible.svg" width="400" alt="Mini Bible App (Advanced, 10/2026): a mini Bible app for anyone seeking guidance, built with AI-assisted development and my own web skills. HTML, CSS, JavaScript." /></a>
   <a href = "https://personal-stopwatch-ni-bern.netlify.app/"><img src="assets/work-stopwatch.svg" width="400" alt="Personal Stopwatch (Intermediate, 06/2025): a working stopwatch app with custom styling and JavaScript logic. HTML, CSS, JavaScript." /></a>
   <a href = "https://personal-calculator-ni-bern.netlify.app/"><img src="assets/work-calculator.svg" width="400" alt="Personal Calculator (Simple, 05/2025): my first ever project, where I learned layout, styling and the basics of JavaScript. HTML, CSS, JavaScript." /></a>
