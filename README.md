@@ -59,10 +59,10 @@ I use AI as a tool to work faster (**AI-assisted development, not ~~vibe coding~
 <h3><img src="assets/h-work.svg" width="343" alt="Featured work" /></h3>
 
 <p align="center">
-  <img src="assets/work-portfolio.svg" width="400" alt="Client Portfolio Website (Advanced, 10/2026): a complete portfolio website built for my first client. HTML, CSS, JavaScript." />
-  <img src="assets/work-bible.svg" width="400" alt="Mini Bible App (Advanced, 10/2026): a mini Bible app for anyone seeking guidance, built with AI-assisted development and my own web skills. HTML, CSS, JavaScript." />
-  <img src="assets/work-stopwatch.svg" width="400" alt="Personal Stopwatch (Intermediate, 06/2025): a working stopwatch app with custom styling and JavaScript logic. HTML, CSS, JavaScript." />
-  <img src="assets/work-calculator.svg" width="400" alt="Personal Calculator (Simple, 05/2025): my first ever project, where I learned layout, styling and the basics of JavaScript. HTML, CSS, JavaScript." />
+  <a href = "https://princes-jean-dela-pena-portfolio.netlify.app/a"><img src="assets/work-portfolio.svg" width="400" alt="Client Portfolio Website (Advanced, 10/2026): a complete portfolio website built for my first client. HTML, CSS, JavaScript." /></a>
+  <a href = "https://paglaom.netlify.app/"><img src="assets/work-bible.svg" width="400" alt="Mini Bible App (Advanced, 10/2026): a mini Bible app for anyone seeking guidance, built with AI-assisted development and my own web skills. HTML, CSS, JavaScript." /></a>
+  <a href = "https://personal-stopwatch-ni-bern.netlify.app/"><img src="assets/work-stopwatch.svg" width="400" alt="Personal Stopwatch (Intermediate, 06/2025): a working stopwatch app with custom styling and JavaScript logic. HTML, CSS, JavaScript." /></a>
+  <a href = "https://personal-calculator-ni-bern.netlify.app/"><img src="assets/work-calculator.svg" width="400" alt="Personal Calculator (Simple, 05/2025): my first ever project, where I learned layout, styling and the basics of JavaScript. HTML, CSS, JavaScript." /></a>
 </p>
 
 <p align="center">
@@ -96,7 +96,7 @@ I use AI as a tool to work faster (**AI-assisted development, not ~~vibe coding~
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/codenamebern-design/codenamebern-design/HEAD/assets/contact-mobile.svg" />
-    <img src="assets/contact.svg" width="100%" alt="Let's build your website. I’m available October – November 2026. Tell me about your project. I’ll reply with a plan and a quote." />
+    <img src="assets/contact.svg" width="100%" alt="Let's build your website. I’m available anytime. Tell me about your project. I’ll reply with a plan and a quote." />
   </picture>
 </p>
 
